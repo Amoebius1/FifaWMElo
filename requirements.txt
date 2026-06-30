@@ -1,0 +1,5 @@
+# FIFA WM Elo Tracker
+
+Leistungsschonende Streamlit-Version.
+
+Startdatei für Streamlit Cloud: `app.py`
